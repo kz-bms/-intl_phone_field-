@@ -6571,8 +6571,8 @@ const List<Country> countries = [
     flag: "🇨🇭",
     code: "CH",
     dialCode: "41",
-    minLength: 12,
-    maxLength: 12,
+    minLength: 9,
+    maxLength: 10,
   ),
   Country(
     name: "Syrian Arab Republic",
