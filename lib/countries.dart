@@ -3316,7 +3316,7 @@ const List<Country> countries = [
     flag: "🇮🇹",
     code: "IT",
     dialCode: "39",
-    minLength: 13,
+    minLength: 10,
     maxLength: 13,
   ),
   Country(
@@ -3936,7 +3936,7 @@ const List<Country> countries = [
     flag: "🇱🇺",
     code: "LU",
     dialCode: "352",
-    minLength: 11,
+    minLength: 9,
     maxLength: 11,
   ),
   Country(
